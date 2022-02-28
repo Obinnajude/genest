@@ -1,6 +1,6 @@
 # genest
 This is a practice folder for Generation USA Cybersecurity Analyst Cohort discord group
-# The main purpose of learning git is for source code collaboration and source control. Lets create a real life scenario and practice git and python as we learn
+# The main purpose of learning git is for collaboration and source code control. Lets create a real life scenario and practice git and python as we learn
 There are two python files in the Src folder in this repo, the cal.py and quiz.py file.
 # Activity One
 In the cal.py file, you are required to contribute to the calculator project by adding a python function to perform the list calculation commented out in the file. Just chose one function and implement.
