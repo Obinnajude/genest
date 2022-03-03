@@ -1,7 +1,7 @@
 questions = {
   "How many states does United State has?":"50",
   "How many days are there in a year?": "365",
-  #This question is from Anna:
+  # This question is from Anna:
   "How many days are there in December?": "31"
 
   # ***add more questions here: do it as the one above and use comma to separate two question***
