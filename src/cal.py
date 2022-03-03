@@ -21,13 +21,6 @@ def multiplyThreeNumbers(numb, numb1):
  print("enter your name here...")
  # add your code here to multiply three numbers here and print the answer
 
-def isiteven(numb):
-    if numb % 2 == 0:
-        return True
-    else:
-        return False
-# add your code here to check if a number is even
-
 def main():
   try:
     ask = input("What do you want to do? (hint Enter add2, muti2, add3, muti3): ")
