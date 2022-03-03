@@ -4,6 +4,8 @@
 def AddTwoNumbers(numb,numb1):
     print("enter your name here...")
     #add your code here to add two numbers and print the answer
+    print(numb, "+", numb1, "=", (numb+numb1))
+    ## Who is meant to enter their name on line 5? ##
 
 def multiplyTwoNumbers(numb,numb1):
   print("enter your name here...")
@@ -21,7 +23,7 @@ def multiplyThreeNumbers(numb, numb1):
 
 def main():
   try:
-    ask = input("What do you want to do? (hint Emter add2, muti2, add3, muti3): ")
+    ask = input("What do you want to do? (hint Enter add2, muti2, add3, muti3): ")
     num = int(input("Enter first number: "))
     num1 = int(input("Enter second number: "))
 
