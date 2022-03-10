@@ -2,10 +2,10 @@
 # Add only one feature 
 
 def AddTwoNumbers(numb,numb1):
-    print("enter your name here...")
+    print("bkelton")
     #add your code here to add two numbers and print the answer
     print(numb, "+", numb1, "=", (numb+numb1))
-    ## Who is meant to enter their name on line 5? ##
+
 
 def multiplyTwoNumbers(numb,numb1):
   print("enter your name here...")
