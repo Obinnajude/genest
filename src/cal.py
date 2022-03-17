@@ -8,8 +8,10 @@ def AddTwoNumbers(numb,numb1):
 
 
 def multiplyTwoNumbers(numb,numb1):
-  print("enter your name here...")
+  print("Nathnael")
    #add your code here to multiply two numbers and print the answer
+  product = numb * numb1
+  print("Your product is: " + str(product)) 
 
 def AddThreeNumbers(numb, numb1):
   num3 = int(input("Enter third number: "))
@@ -41,4 +43,4 @@ def main():
     print("Enter a whole number or the right value. Bye!")  
 if __name__ == '__main__':
     main()
-    
+

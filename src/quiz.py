@@ -2,7 +2,10 @@ questions = {
   "How many states does United State has?":"50",
   "How many days are there in a year?": "365",
   # This question is from Anna:
-  "How many days are there in December?": "31"
+  "How many days are there in December?": "31",
+
+   #This a question from Nate:
+  "Which country consumes the most chocolate per capita?": "Switzerland"
 
   # ***add more questions here: do it as the one above and use comma to separate two question***
   #**comment your name above the question**
