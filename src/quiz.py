@@ -3,9 +3,12 @@ questions = {
   "How many days are there in a year?": "365",
   # This question is from Anna:
   "How many days are there in December?": "31",
-
+    # This question is from Yves:
+  "How many colors are there in the rainbow?": "7",
    #This a question from Nate:
   "Which country consumes the most chocolate per capita?": "Switzerland"
+
+
 
   # ***add more questions here: do it as the one above and use comma to separate two question***
   #**comment your name above the question**
@@ -45,3 +48,4 @@ def main():
 
 if __name__=="__main__":
   main()
+  
