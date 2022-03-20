@@ -1,8 +1,8 @@
 # Please make sure your code is running fine before pushing it online to github and add your code only where specified 
 # Add only one feature 
 
-def addingTwoNumbers(first_num,second_num):
-    print(first_num, "+", second_num, "=", (first_num+second_num))
+def addingThreeNumbers(numb,numb1,numb2):
+    print(numb, "+", numb1, "+", numb2,"=", (numb+numb1+numb2))
     print("Your answer is above. Thank you for using Yves' method :)")
 
 def AddTwoNumbers(numb,numb1):
@@ -28,14 +28,15 @@ def multiplyThreeNumbers(numb, numb1):
 
 def main():
   try:
-    ask = input("What do you want to do? (hint Enter add2, muti2, add3, muti3, adding2): ")
+    ask = input("What do you want to do? (hint Enter add2, muti2, add3, muti3, adding3): ")
     num = int(input("Enter first number: "))
     num1 = int(input("Enter second number: "))
+    num2 = int(input("Enter third number: "))
 
     if ask == "add2":
       AddTwoNumbers(num,num1)
-    elif ask == "adding2":
-      addingTwoNumbers(num,num1)
+    elif ask == "adding3":
+      addingThreeNumbers(num,num1,num2)
     elif ask == "muti2":
       multiplyTwoNumbers(num,num1)
     elif ask == "add3":
@@ -48,4 +49,4 @@ def main():
     print("Enter a whole number or the right value. Bye!")  
 if __name__ == '__main__':
     main()
-
+  
